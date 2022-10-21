@@ -1,0 +1,6 @@
+print("latihan 1")
+a=input("nilai a?")
+print("variabel A=", a)
+b=input("nilai b?")
+print("variabel B=", b)
+print("penjumlahan A+B=", int(a)+int(b))
